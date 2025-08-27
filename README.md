@@ -5,7 +5,20 @@ This submod is still in-progress. I've taken the liberties of attaching the plan
 
 * = important note that I recommend reading to lower the risks of game-breaking experiences.
 
+---------------------------------------------------------------------------------------
+
+**A short summary of what's included in this submod:**
+
+- 10 new locations with interactive dialogue
+- Expanded gifting system with hidden reactions
+- New CGs, outfits, and pose sprites
+- Custom calendar events
+- Horror elements and lore expansion
+- Optional idle mode and activity cycling
+
 ------------------------------------------------------
+
+**Elaboration on the core features of this submod:**
 
 1. Explorable Locations
 
