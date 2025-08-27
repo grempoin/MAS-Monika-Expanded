@@ -1,4 +1,6 @@
 # MAS-Monika-Expanded
+
+
 A submod designed to evolve Monika’s sentience, giving her new environments, behaviours, and dialogue that reflect a world—and a love—that grows with you.
 
 This submod is still in-progress. I've taken the liberties of attaching the planned (and actively worked on) features of MAS: Monika Expanded.
@@ -8,6 +10,8 @@ This submod is still in-progress. I've taken the liberties of attaching the plan
 ---------------------------------------------------------------------------------------
 
 **A short summary of what's included in this submod:**
+
+
 
 - 10 new locations with interactive dialogue
 - Expanded gifting system with hidden reactions
@@ -19,6 +23,8 @@ This submod is still in-progress. I've taken the liberties of attaching the plan
 ------------------------------------------------------
 
 **Elaboration on the core features of this submod:**
+
+
 
 1. Explorable Locations
 
@@ -86,7 +92,8 @@ New classroom poses with optional auto-switching behavior. Vanilla game outfits 
 Whether it's a custom reminder, a holiday and other, you can add it to the Calendar in her classroom! The Calendar won't be present in outdoor locations in this submod, but you'll find variations of it in the kitchen, her room and the bathroom.
 
 ----------------------------------------------------------------------
-IMPORTANT NOTES THAT SHOULDN'T BE IGNORED.
+**IMPORTANT NOTES THAT SHOULDN'T BE IGNORED.**
+
 
 *Expanded Dialogue : It's recommended that you set your frequency of random chatter to "Occasionally" to avoid being spammed by Monika. She'll even offer to do it for you. 
 
