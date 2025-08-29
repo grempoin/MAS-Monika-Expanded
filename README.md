@@ -65,11 +65,11 @@ New gifting categories such as "Trinkets," "Food," and "Beverage" have been crea
 
 Certain items will lead to unlocking a new feature, location or hidden events. For example:
 
-> marriagecertificate.gift
-> portraitofmarkov.gift
-> bathroomkey.gift
-> journal.gift
-> edibleshovel.gift
+- marriagecertificate.gift
+- portraitofmarkov.gift
+- bathroomkey.gift
+- journal.gift
+- edibleshovel.gift
 
 Monika will slowly reveal every new possible gift with time and a record will be kept in her journal (after you gift it to her).
  
